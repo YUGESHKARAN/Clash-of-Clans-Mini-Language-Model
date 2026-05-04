@@ -35,7 +35,7 @@ The model contains **~2.96 million** trainable parameters and is designed for NL
 ## Prerequisites
 
 - Python **3.8+**
-- Jupyter Notebook (optional - If willing to train by your own system)
+- Jupyter Notebook (optional - If willing to train with your own data)
 - or load this pretrained weights
 - (Recommended) `virtualenv` or `conda` for environment management
 
