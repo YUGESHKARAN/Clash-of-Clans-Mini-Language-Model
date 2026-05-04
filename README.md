@@ -9,13 +9,14 @@
 </div>
 
 <div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/YUGESHKARAN/Clash_of_Clans_Language_Model.svg)](https://github.com/YUGESHKARAN/Clash_of_Clans_Language_Model/stargazers)
-[![Forks](https://img.shields.io/github/forks/YUGESHKARAN/Clash_of_Clans_Language_Model.svg)](https://github.com/YUGESHKARAN/Clash_of_Clans_Language_Model/network)
+  
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![Issues](https://img.shields.io/github/issues/YUGESHKARAN/Clash_of_Clans_Language_Model.svg)](https://github.com/YUGESHKARAN/Clash_of_Clans_Language_Model/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/YUGESHKARAN/Clash_of_Clans_Language_Model.svg)](https://github.com/YUGESHKARAN/Clash_of_Clans_Language_Model/pulls)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/YUGESHKARAN/Clash_of_Clans_Language_Model.svg)](https://github.com/YUGESHKARAN/Clash_of_Clans_Language_Model/stargazers)
+[![Forks](https://img.shields.io/github/forks/YUGESHKARAN/Clash_of_Clans_Language_Model.svg)](https://github.com/YUGESHKARAN/Clash_of_Clans_Language_Model/network)
+
 
 </div>
 
