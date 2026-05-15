@@ -109,7 +109,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - **Supercell** – for Clash of Clans inspiration
-- The open-source ML & NLP communities
 - Special thanks to **Andrej Karpathy** for his [GPT-2 reproduction lecture](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 ---
